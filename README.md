@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I'm currently in first year (Computer Science and Engineering) focused on learning Django, a Python web framework. I'm building some projects to help solidify my learning.
+I'm currently in a Undergraduate Student (Computer Science and Engineering) focused on learning Django, a Python web framework. I'm building some projects to help solidify my learning.
 
 Beyond Django and web dev, I'm interested in artificial intelligence and machine learning. 
 
