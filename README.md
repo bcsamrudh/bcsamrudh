@@ -30,15 +30,7 @@ I'm using GitHub to share my projects and code, along with collaborating with ot
 
 - ⚡ Fun fact: I am always keen on learning something new about Web Development and Machine Learning  
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
 
