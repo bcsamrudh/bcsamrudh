@@ -1,6 +1,6 @@
 ## Hey 👋, I'm B C SAMRUDH 
 
-I'm currently a Undergraduate Student (Computer Science and Engineering) focused on learning React and Node.Js. I'm building some projects to help solidify my learning.
+I'm currently a Undergraduate Student (Computer Science and Engineering) focused on learning Machine Learning and Deep Learning. I'm building some projects to help solidify my learning.
 I'm using GitHub to share my projects and code, along with collaborating with others. My projects here will include both my learning experiments as well as some hobby projects I build.  
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
