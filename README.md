@@ -15,6 +15,3 @@ I'm using GitHub to share my projects and code, along with collaborating with ot
 
 ## *Dev tools:*
 ![](https://skillicons.dev/icons?i=vscode,github,git,postman&theme=dark)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bcsamrudh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
