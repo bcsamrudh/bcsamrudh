@@ -11,7 +11,7 @@ class Developer:
 
     def __init__(self):
         self.name = "B C Samrudh 😄"
-        self.love = "Python"
+        self.love = "Coding"
         self.location = "Somewhere on Earth 🌍"
 
     def say_hi(self):
