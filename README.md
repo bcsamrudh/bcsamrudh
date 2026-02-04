@@ -25,12 +25,3 @@ me.say_hi()
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bcsamrudh) 
-
-## *Languages and frameworks:*
-![Web and app](https://skillicons.dev/icons?i=c,cpp,py,r,pytorch,tensorflow,kafka&theme=dark)
-
-## *Web dev:*
-![](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,firebase,flask,mongodb&theme=dark)
-
-## *Dev tools:*
-![](https://skillicons.dev/icons?i=vscode,github,git,postman&theme=dark)
